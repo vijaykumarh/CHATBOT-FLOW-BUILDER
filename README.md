@@ -18,10 +18,3 @@ Live Link - https://chatbot-flow-builder-react.vercel.app/
 
 
 ### Introduced save flow and restore button that stores the current flow in the local storage and retrieves the last saved flow from local storage. Also it has a control panel for zoom in and zoom out.
-
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
